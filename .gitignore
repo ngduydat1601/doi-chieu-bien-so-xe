@@ -1,5 +1,13 @@
+# Môi trường ảo (trong ảnh của bạn)
+.venv/
+venv/
+env/
+
+# Cache của Python
 __pycache__/
 *.pyc
+
+# Các file tạm / biến môi trường
 .env
-.venv/
-*.xlsx
+.idea/
+.vscode/
